@@ -40,6 +40,7 @@ Papers on other topics:
 The content on this site has been developed in relation to my PhD project at the Technical University of Denmark, together with my supervisors Associate Professors Michael Deininger and Ali G. Özkil. 
 The PhD project is running from December 2018 - November 2021.
 
+![cah](prototypingplanner.github.io/cah.png)
 - [ResearchGate](https://www.researchgate.net/profile/Camilla_Hansen25?ev=hdr_xprf&_sg=7dPyj_ApPb7PBPN93QggOFY4CapBeqzCxBHTW_ESMQsn-WhhJGK8RIoN3Ytgyf_v_2cNSm3mto9weB-lpnbPPdqK)
 - [LinkedIn](https://www.linkedin.com/in/camilla-arndt-hansen/)
 - Email: prototypingplanner@gmail.com
