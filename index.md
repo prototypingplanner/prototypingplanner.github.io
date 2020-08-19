@@ -1,10 +1,3 @@
-# Welcome to prototypingplanner.com
-
-Here you can find supporting material for our research publications about the use of prototyping in product development.
-Take a look around.
-
-// [Camilla Arndt Hansen](https://www.researchgate.net/profile/Camilla_Hansen25), PhD student at the Technical University of Denmark
-
 ## The Prototyping Planner
 
 The Prototyping Planner is a 1-page template that aims to teach students how to create purposeful prototypes.
