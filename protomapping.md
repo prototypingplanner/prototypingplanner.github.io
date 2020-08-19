@@ -6,6 +6,8 @@ Arndt Hansen, C., & Ozkil, A. G. (2019), From Idea to Production: A Retrospectiv
 
 The ProtoMap visualizes six years of prototyping carried out by the hardware startup PeeFence. They built their first prototype in 2013 to prove that their idea for a fence-based urinal could improve the sanitary conditions at festivals.
 
+[![PeeFence protomap](prototypingplanner.github.io/PeeFence_protomap.jpg)](prototypingplanner.github.io/PeeFence_protomap.pdf)
+
 
 ## Reading the ProtoMap
 
