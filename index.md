@@ -4,11 +4,8 @@ Here you can download the Prototyping Planner
 
 ## Prototyping Planners
 
-- V1
-- V2
-- V3
-- V4
+<a href="pp.html">Download prototyping planners</a>
 
 ## ProtoMapping
 
-<a href=/prototmapping.html>ProtoMapping site</a>
+<a href="prototmapping.html">See ProtoMap</a>
