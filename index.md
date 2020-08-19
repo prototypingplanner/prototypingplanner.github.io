@@ -7,7 +7,7 @@ Take a look around.
 
 The Prototyping Planner is a 1-page template that aims to teach students how to create purposeful prototypes.
 
-![Prototyping Planner V4](PrototypingPlannerV4.jpg)
+![Prototyping Planner V4](PrototypingPlannerV4.jpg/300/300)
 
 <a href="prototypingplanner.github.io/pp.html">Download the Prototyping Planner</a>
 
