@@ -17,7 +17,7 @@ The Prototyping Planner is a 1-page template that aims to teach students how to 
 
 In our paper: [From Idea to Production: A Retrospective and Longitudinal Case Study of Prototypes and Prototyping Strategies](https://asmedigitalcollection.asme.org/mechanicaldesign/article/142/3/031115/1066327/From-Idea-to-Production-A-Retrospective-and) we created a ProtoMap for the startup company PeeFence.
 
-<a href="prototypingplanner.github.io/prototmapping.html">See the PeeFence ProtoMap</a>
+<a href="prototypingplanner.github.io/protomapping.html">See the PeeFence ProtoMap</a>
 
 ## List of publications
 
