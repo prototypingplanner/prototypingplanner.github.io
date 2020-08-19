@@ -1,8 +1,5 @@
-<!doctype html>
-
-<html lang="en">
 <head>
-  <title>Prototyping Planners</title>
+  <title>Prototyping Planner</title>
 </head>
 
 <body>
