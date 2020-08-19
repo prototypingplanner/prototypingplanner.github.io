@@ -1,11 +1,11 @@
-<h1>Prototyping Planner</h1>
+# Prototyping Planner
 
-<p>Here you can download the Prototyping Planner</p>
+Here you can download the Prototyping Planner
 
-<h2> Prototyping Planners </h2>
+## Prototyping Planners
 
 <a href="prototypingplanner.github.io/pp.html">Download prototyping planners</a>
 
-<h2> ProtoMapping </h2>
+## ProtoMapping
 
 <a href="prototypingplanner.github.io/protomapping.html">See ProtoMap</a>
