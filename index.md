@@ -2,7 +2,7 @@
 <html>
 <body>
 <h1>Prototyping Planner</h1>
-<p> Here you can download the Prototyping Planner </p>
+Here you can download the Prototyping Planner
   
   
 </body>
