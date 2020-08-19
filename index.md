@@ -1,3 +1,5 @@
+# Welcome to prototypingplanner.com
+
 Here you can find supporting material for our research publications about the use of prototyping in product development.
 Take a look around.
 
@@ -11,7 +13,7 @@ The Prototyping Planner is a 1-page template that aims to teach students how to 
 
 [Download the Prototyping Planner](prototypingplanner.github.io/PrototypingPlanner_V4.pdf)
 
-Read about the Prototyping Planner in our paper: [**"Fostering prototyping mindsets in novice designers with the prototyping planner."**](https://www.cambridge.org/core/journals/proceedings-of-the-design-society-design-conference/article/fostering-prototyping-mindsets-in-novice-designers-with-the-prototyping-planner/14295BDBAC31101B6182D9B161538B2E)
+Read about the Prototyping Planner in our paper: ["Fostering prototyping mindsets in novice designers with the prototyping planner."](https://www.cambridge.org/core/journals/proceedings-of-the-design-society-design-conference/article/fostering-prototyping-mindsets-in-novice-designers-with-the-prototyping-planner/14295BDBAC31101B6182D9B161538B2E)
 
 ### Previous versions of the Prototyping Planner
 - [Prototyping Planner V3](prototypingplanner.github.io/PrototypingPlanner_V3.pdf)
