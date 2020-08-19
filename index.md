@@ -4,11 +4,9 @@ The Prototyping Planner is a 1-page template that aims to teach students how to 
 
 [![PPV4](prototypingplanner.github.io/PrototypingPlannerV4.jpg)](prototypingplanner.github.io/PrototypingPlanner_V4.pdf)
 
-[Download the Prototyping Planner](prototypingplanner.github.io/PrototypingPlanner_V4.pdf)
-
 Read about the Prototyping Planner in our paper: ["Fostering prototyping mindsets in novice designers with the prototyping planner."](https://www.cambridge.org/core/journals/proceedings-of-the-design-society-design-conference/article/fostering-prototyping-mindsets-in-novice-designers-with-the-prototyping-planner/14295BDBAC31101B6182D9B161538B2E)
 
-### Previous versions of the Prototyping Planner
+#### Previous versions of the Prototyping Planner
 - [Prototyping Planner V3](prototypingplanner.github.io/PrototypingPlanner_V3.pdf)
 - [Prototyping Planner V2](prototypingplanner.github.io/PrototypingPlanner_V2.pdf)
 
@@ -18,9 +16,9 @@ Read about the Prototyping Planner in our paper: ["Fostering prototyping mindset
 
 In our paper: [From Idea to Production: A Retrospective and Longitudinal Case Study of Prototypes and Prototyping Strategies](https://asmedigitalcollection.asme.org/mechanicaldesign/article/142/3/031115/1066327/From-Idea-to-Production-A-Retrospective-and) we created a ProtoMap for the startup company PeeFence.
 
-<a href="prototypingplanner.github.io/protomapping.html">See the PeeFence ProtoMap</a>
+<a href="prototypingplanner.github.io/protomapping.html">Read more about the ProtoMap</a>
 
-![PeeFence protomap](prototypingplanner.github.io/PeeFence_protomap.jpg)
+[![PeeFence protomap](prototypingplanner.github.io/PeeFence_protomap.jpg)](prototypingplanner.github.io/PeeFence_protomap.pdf)
 
 ## List of publications
 
