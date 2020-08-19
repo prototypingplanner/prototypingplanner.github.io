@@ -1,6 +1,9 @@
 theme: jekyll-theme-minimal
 title: Welcome to prototypingplanner.com
 logo: prototypingplanner.github.io/logo.png
-description: Minimal is a theme for GitHub Pages.
+description: Here you can find supporting material for our research publications about the use of prototyping in product development. Take a look around.
+
+// [Camilla Arndt Hansen](https://www.researchgate.net/profile/Camilla_Hansen25), PhD student at the Technical University of Denmark
+
 show_downloads: true
 google_analytics:
