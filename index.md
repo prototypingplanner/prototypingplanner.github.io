@@ -15,7 +15,7 @@ Read about the Prototyping Planner in our paper: ["Fostering prototyping mindset
 
 *ProtoMapping* is a visualization struture that allows us to document the product development process and observe the use of prototyping strategies over time.
 
-In our paper: [From Idea to Production: A Retrospective and Longitudinal Case Study of Prototypes and Prototyping Strategies](https://asmedigitalcollection.asme.org/mechanicaldesign/article/142/3/031115/1066327/From-Idea-to-Production-A-Retrospective-and) we created a ProtoMap for the startup company PeeFence.
+In our paper [From Idea to Production: A Retrospective and Longitudinal Case Study of Prototypes and Prototyping Strategies](https://asmedigitalcollection.asme.org/mechanicaldesign/article/142/3/031115/1066327/From-Idea-to-Production-A-Retrospective-and), we created a ProtoMap for the startup company PeeFence.
 
 <a href="prototypingplanner.github.io/protomapping.html">Read more about the ProtoMap</a>
 
@@ -31,7 +31,7 @@ Papers about prototyping:
 - Arndt Hansen, Camilla, and Özkil, Ali Gürcan. (2020). **""You Cannot Test IT Before It Is Verified. When It Is Verified You Cannot Change It": Prototyping Challenges In Industry."** Proceedings of the ASME 2020 IDETC/CIE. (WILL BE PUBLISHED SOON)
 
 Papers on other topics:
-- Hansen, C. A. and Özkil, A. G. (2020). [**"How We (Sometimes Do Not) Evaluate Design Support: A Review of How Design Support Is Evaluated in Practice."**](https://www.designsociety.org/publication/42545/How+We+%28Sometimes+Do+Not%29+Evaluate+Design+Support%3A+A+Review+of+How+Design+Support+Is+Evaluated+in+Practice) DS 101: Proceedings of NordDesign 2020, Lyngby, Denmark, 12th - 14th August 2020. https://doi.org/10.35199/NORDDESIGN2020.45]
+- Hansen, C. A. and Özkil, A. G. (2020). ["How We (Sometimes Do Not) Evaluate Design Support: A Review of How Design Support Is Evaluated in Practice."](https://www.designsociety.org/publication/42545/How+We+%28Sometimes+Do+Not%29+Evaluate+Design+Support%3A+A+Review+of+How+Design+Support+Is+Evaluated+in+Practice) DS 101: Proceedings of NordDesign 2020, Lyngby, Denmark, 12th - 14th August 2020. https://doi.org/10.35199/NORDDESIGN2020.45]
 
 
 ## About & Contact
