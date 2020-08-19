@@ -9,7 +9,13 @@ The Prototyping Planner is a 1-page template that aims to teach students how to 
 
 ![PPV4](prototypingplanner.github.io/PrototypingPlannerV4.jpg)
 
-<a href="prototypingplanner.github.io/pp.html">Download the Prototyping Planner</a>
+[![PPV4](prototypingplanner.github.io/PrototypingPlannerV4.jpg)](prototypingplanner.github.io/PrototypingPlanner_V4.pdf)
+
+[Download the Prototyping Planner](prototypingplanner.github.io/PrototypingPlanner_V4.pdf)
+
+### Previous versions of the Prototyping Planner
+- [Prototyping Planner V3](prototypingplanner.github.io/PrototypingPlanner_V3.pdf)
+- [Prototyping Planner V2](prototypingplanner.github.io/PrototypingPlanner_V2.pdf)
 
 ## ProtoMapping
 
