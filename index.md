@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<html>
-<body>
-<h1>Prototyping Planner</h1>
+Prototyping Planner
+
 Here you can download the Prototyping Planner
-  
-  
-</body>
-</html>
