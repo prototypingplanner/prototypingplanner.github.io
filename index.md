@@ -4,7 +4,7 @@ The Prototyping Planner is a 1-page template that aims to teach students how to 
 
 Read about the Prototyping Planner in our paper: ["Fostering prototyping mindsets in novice designers with the prototyping planner."](https://www.cambridge.org/core/journals/proceedings-of-the-design-society-design-conference/article/fostering-prototyping-mindsets-in-novice-designers-with-the-prototyping-planner/14295BDBAC31101B6182D9B161538B2E)
 
-Or watch a [5 minute introduction](prototypingplanner.github.io/DESIGN2020_fosteringprototypingmindsets_github.mp4) to the Prototyping Planner from the DESIGN20 conference.
+Or watch a [5 minute introduction](https://drive.google.com/file/d/1QXjX6G2TyjkqOLADj2M4slvVEMj7VaAe/view?usp=sharing) to the Prototyping Planner from the DESIGN20 conference.
 
 [![PPV4](prototypingplanner.github.io/PrototypingPlannerV4.2.jpg)](prototypingplanner.github.io/PrototypingPlanner_V4.2.pdf)
 
