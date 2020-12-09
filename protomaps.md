@@ -6,15 +6,24 @@ Hansen, C. A., and Deininger, M. (submitted for review). "From prototype to prot
 
 The ProtoMaps visualize the formal and underlying strategies for ten student teams' prototyping processes to develop mechatronic devices for food production.
 
-### Team 1
+## Team 1
+Formal ProtoMap:
 ![team1 formal protomap](prototypingplanner.github.io/protomaps/team1_formal.png)
+Underlying ProtoMap:
 ![team1 underlying protomap](prototypingplanner.github.io/protomaps/team1_under.png)
 
-### Team 2
+## Team 2
 Formal ProtoMap:
 ![team2 formal protomap](prototypingplanner.github.io/protomaps/team2_formal.png)
 Underlying ProtoMap:
 ![team2 underlying protomap](prototypingplanner.github.io/protomaps/team2_under.png)
+
+## Team 3
+Formal ProtoMap:
+![team3 formal protomap](prototypingplanner.github.io/protomaps/team3_formal.png)
+Underlying ProtoMap:
+![team3 underlying protomap](prototypingplanner.github.io/protomaps/team3_under.png)
+
 
 ## Formal ProtoMaps
 
