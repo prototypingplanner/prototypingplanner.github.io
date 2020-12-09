@@ -8,8 +8,12 @@ The ProtoMaps visualize the formal and underlying strategies for ten student tea
 
 ## Formal ProtoMaps
 
-[![PeeFence protomap](prototypingplanner.github.io/protomaps/team1_formal.jpg)](prototypingplanner.github.io/PeeFence_protomap.pdf)
+[![PeeFence protomap](prototypingplanner.github.io/protomaps/team1_formal.png)]
+
+[![PeeFence protomap](prototypingplanner.github.io/protomaps/team2_formal.png)]
+
+[![PeeFence protomap](prototypingplanner.github.io/protomaps/team3_formal.png)]
 
 ## Underlying ProtoMaps
 
-[![PeeFence protomap](prototypingplanner.github.io/protomaps/team1_underlying.jpg)]
+[![PeeFence protomap](prototypingplanner.github.io/protomaps/team1_underlying.png)]
