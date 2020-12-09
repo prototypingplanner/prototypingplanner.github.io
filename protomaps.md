@@ -8,6 +8,13 @@ The ProtoMaps visualize the formal and underlying strategies for ten student tea
 
 ## Formal ProtoMaps
 
+
+![team1 formal protomap](prototypingplanner.github.io/protomaps/team1_formal.png)
+
+![team2 formal protomap](prototypingplanner.github.io/protomaps/team2_formal.png)
+
+![team3 formal protomap](prototypingplanner.github.io/protomaps/team3_formal.png)
+
 (prototypingplanner.github.io/protomaps/team1_formal.png)
 
 [!(prototypingplanner.github.io/protomaps/team2_formal.png)]
