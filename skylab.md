@@ -1,5 +1,7 @@
 # Download the Prototyping Planner
-Klik to download template and see examples
+### Klik to download template and see examples
+
+Template: 
 
 [![The Prototyping Planner](prototypingplanner.github.io/Skylab.jpg)](prototypingplanner.github.io/Skylab.pdf)
 
