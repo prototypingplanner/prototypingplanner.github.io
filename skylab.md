@@ -4,6 +4,6 @@
 
 Examples (DK):
 
-![The Prototyping Planner Eksempel 1](prototypingplanner.github.io/Skylab-eks1.jpg)
+[![Example 1](prototypingplanner.github.io/Skylab-eks1.jpg)](prototypingplanner.github.io/Skylab-eks1.pdf)
 
-![The Prototyping Planner Eksempel 2](prototypingplanner.github.io/Skylab-eks2.jpg)
+[![Example 2](prototypingplanner.github.io/Skylab-eks2.jpg)](prototypingplanner.github.io/Skylab-eks2.pdf)
