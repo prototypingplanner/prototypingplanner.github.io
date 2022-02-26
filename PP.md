@@ -1,6 +1,6 @@
-# Download the Prototyping Target
+# Download the Prototyping Planner
 
-[![The Prototyping Target](prototypingplanner.github.io/PrototypingTarget_V1.jpg)](prototypingplanner.github.io/PrototypingTarget_V1.pdf)
+[![The Prototyping Planner](prototypingplanner.github.io/PrototypingPlanner_V4.4.jpg)](prototypingplanner.github.io/PrototypingPlanner_V4.4.pdf)
 
 
 [Read more about our research](prototypingplanner.github.io)
