@@ -17,7 +17,7 @@ Or watch a [5 minute introduction](https://drive.google.com/file/d/1QXjX6G2Tyjkq
 The Prototyping Target is a prioritisation tool that helps designers increas the value of prototypes.  
 With the Prototyping Target, designers can identify and select the most critical assumption that need to be tested. Afterwards, the Prototyping Planner can be used to plan th emost effective prototype to test these assumptions. 
 
-[![PT](prototypingplanner.github.io/pt.jpg)](prototypingplanner.github.io/pt.pdf)
+[![PT](prototypingplanner.github.io/PrototypingTarget_V1.jpg)](prototypingplanner.github.io/PrototypingTarget_V1.pdf)
 
 ## ProtoMapping
 
